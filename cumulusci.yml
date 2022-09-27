@@ -1,0 +1,7 @@
+project:
+  name: github-release-then-another-commit
+  package:
+    name: GitHub release followed by another commit
+  git:
+    default_branch: 'main'
+  source_format: sfdx
